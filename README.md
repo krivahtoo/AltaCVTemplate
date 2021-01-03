@@ -21,7 +21,8 @@ This is how the re-created résumé looks like ([view/open on Overleaf](https://
 
 Though if you're creating your own CV/résumé, you'd probably prefer using the basic template ([view/open on Overleaf](https://www.overleaf.com/latex/templates/altacv-template/trgqjpwnmtgv)):
 
-<img src="sample.png" alt="sample barebones AltaCV template" width="600px">
+<img src="sample1.png" alt="sample barebones AltaCV template" width="600px">
+<img src="sample2.png" alt="sample barebones AltaCV template" width="600px">
 
 
 ## Requirements and Compilation
